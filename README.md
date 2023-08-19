@@ -22,7 +22,7 @@ Download from [releases](https://github.com/shadowsocks/shadowsocks-windows/rele
 
 ## PAC
 
-- The PAC rules are generated from the geosite database in [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community).
+-  Hello World [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community).
 - Generation modes: whitelist mode and blacklist mode.
 - Domain groups: `geositeDirectGroups` and `geositeProxiedGroups`.
     - `geositeDirectGroups` is initialized with `cn` and `geolocation-!cn@cn`.
